@@ -31,3 +31,10 @@ Last but not least, you can load an external Python file with:
 ```
 
 to display the contents of the file ``python_file`` from line 23 to line 50.
+
+Other Resources
+============================
+
+https://en.wikibooks.org/wiki/LaTeX/Source_Code_Listings
+https://denbeke.be/blog/programming/syntax-highlighting-in-latex/
+
